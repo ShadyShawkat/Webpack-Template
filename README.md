@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://shadyshawkat.github.io/Webpack-Excercise/)
+[Live Demo Link](https://shadyshawkat.github.io/Webpack-Excercise/dist)
 
 ## 🤝 Contributing
 
