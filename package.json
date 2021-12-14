@@ -1,8 +1,9 @@
 {
-  "name": "Webpack-Excercise",
+  "name": "Webpack-Template",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "private": true,
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
@@ -11,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadyShawkat/Webpack-Excercise.git"
+    "url": "git+https://github.com/ShadyShawkat/Webpack-Template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShadyShawkat/Webpack-Excercise/issues"
+    "url": "https://github.com/ShadyShawkat/Webpack-Template/issues"
   },
-  "homepage": "https://github.com/ShadyShawkat/Webpack-Excercise#readme",
+  "homepage": "https://github.com/ShadyShawkat/Webpack-Template#readme",
   "devDependencies": {
     "css-loader": "^6.5.1",
     "html-webpack-plugin": "^5.5.0",
